@@ -1,0 +1,31 @@
+
+.t1,.t2,.t3,.t4{
+
+    padding-bottom: 10px;
+}
+.login-btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: rgb(4, 82, 56);
+    font-weight: bold;
+    border: none;
+}
+.login{
+    text-align: center;
+    background-color: azure;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+button:hover{
+    background-color: aqua;
+}
